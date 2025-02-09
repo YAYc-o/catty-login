@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>CATTY</title>
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <title>CATTY</title>
+            <link rel="stylesheet" href="netflix.css">
+        </head>
+        <body>
+            <nav>
+                <a href="#"><img src="c:\Users\Admin\Downloads\90bc9170-0dc6-4b6c-b1b3-0e2aa3f1f95a.jfif" alt="logo"></a>
+            </nav>
+            <div class="form-wrapper">
+                <h2>Sign in</h2>
+                <form action="#">
+                    <div class="form-control">
+                        <input type="text" required>
+                        <label>Email or phone number</label>
+                    </div>
+                    <div class="form-control">
+                        <input type="password" required>
+                        <label>Password</label>
+                    </div>
+                    <button type="submit">Sign In</button>
+                    <div class="form-help">
+                        <div class="remember-me">
+                            <input type="checkbox" id="remember-me">
+                            <label for="remember-me">Remember me</label>
+                        </div>
+                        <a href="#">Need Help</a>
+                    </div>
+                </form>
+                <p>New to Catty?<a href="#"> Sign up now.</a></p>
+                <small>
+                    This page is protected by Google reCAPTCHA to ensure you're not a bot.
+                </small>
+            </div>
+            <!--partial-->
+        </body>
+        </html>        
